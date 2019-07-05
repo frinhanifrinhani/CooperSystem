@@ -17,6 +17,8 @@ DB_CONNECTION=pgsql
 
 DB_PASSWORD= SENHA_DO_BANCO_DE_DADOS 
 
+
+
 BANCO DE DADOS
 
 O banco de dados utiliazado: PostgreSQL 

@@ -18,6 +18,7 @@ DB_CONNECTION=pgsql
 DB_PASSWORD= SENHA_DO_BANCO_DE_DADOS 
 
 BANCO DE DADOS
+
 O banco de dados utiliazado: PostgreSQL 
 
 Abra a pasta database na raiz do projeto, na pasta existe o arquivo database.sql onde se econtra o script do banco de dados.

@@ -14,6 +14,7 @@ Após clonar o projeto, atualize os pacotes com o camando:
 Abra o aquivo .env na raiz o projeto e altere as seguintes linhas:
 
 DB_CONNECTION=pgsql
+
 DB_PASSWORD= SENHA_DO_BANCO_DE_DADOS 
 
 BANCO DE DADOS

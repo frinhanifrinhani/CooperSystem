@@ -1,5 +1,7 @@
 # CooperSystem
-Desafio CooperSystem
+
+Passos para instação do sistema.
+
 
 No terminal do seu sistema operacional, acesse a pasta onde deseja clonar o projeto
 
@@ -20,6 +22,8 @@ DB_PASSWORD= SENHA_DO_BANCO_DE_DADOS
 
 :::::::::
 BANCO DE DADOS
+:::::::::
+
 
 O banco de dados utiliazado: PostgreSQL 
 

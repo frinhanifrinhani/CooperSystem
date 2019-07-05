@@ -31,5 +31,7 @@ Abra a pasta database na raiz do projeto, na pasta existe o arquivo database.sql
 Execute o mesmo no terminal do seu SGBD.
 
 Para acessar o sistema é necessario utilizar as credenciais:
+
 email:usuario@coopersystem.com
+
 senha:secret

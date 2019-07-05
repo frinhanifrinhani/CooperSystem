@@ -25,7 +25,7 @@ BANCO DE DADOS
 :::::::::
 
 
-O banco de dados utiliazado: PostgreSQL 
+Banco de dados utiliazado: PostgreSQL 
 
 Abra a pasta database na raiz do projeto, na pasta existe o arquivo database.sql onde se econtra o script do banco de dados.
 Execute o mesmo no terminal do seu SGBD.
